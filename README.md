@@ -14,3 +14,7 @@ This is a group project with 2 members.
 1. Download the zip folder from https://drive.google.com/file/d/1raLAJHZHUYhE03VJ5CuQmCi9N7mEbNkE/view?usp=drive_link
 2. Unzip the downloaded folder
 3. Launch Viral Uprising.exe
+
+## Demo videos
+<img src="https://github.com/WongJ275/Viral-Uprising/blob/bf03ee7c5b4cace65cf6e7d086a4521f220b309c/gif/trailer_p1.gif" alt="gif1" />
+<img src="https://github.com/WongJ275/Viral-Uprising/blob/bf03ee7c5b4cace65cf6e7d086a4521f220b309c/gif/trailer_p2.gif" alt="gif2" />
