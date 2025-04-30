@@ -8,6 +8,8 @@ This is a group project with 2 members.
                    animations and visual effects for the player (weapons, skills)
   
 - Collaborative work: game planning, game environment design, UI, WeaponSwitching.cs
+
+- The project includes adaptations of third-party materials
 </pre>
 
 ## How to play
